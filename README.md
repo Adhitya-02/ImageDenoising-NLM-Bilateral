@@ -10,7 +10,6 @@ This project is focused on enhancing the quality of digital images through advan
 
 ## Installation
 To run this project, you will need to install several Python libraries. You can install these dependencies via pip:
-```bash
 pip install numpy matplotlib opencv-python scikit-image
 
 ## Usage
